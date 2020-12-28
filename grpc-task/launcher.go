@@ -1,4 +1,4 @@
-package launcher
+package github.com/lifenglin/launcher
 
 import (
 	"context"
